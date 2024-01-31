@@ -64,7 +64,7 @@ Copy your function url from the terminal and paste it into the `schema.py` file.
 # Discord Community
 Join our Discord server to be part of a growing community that shapes the future of AI. Share your work, get help, and collaborate with fellow enthusiasts.
 
-Discord Invite Link
+[Discord Invite Link](https://discord.gg/bVN2e6en)
 
 # Subscribe and Stay Updated
 Don't forget to subscribe to our YouTube channel for the latest updates, tutorials, and discussions on AI and AGI.
