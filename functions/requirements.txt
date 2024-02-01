@@ -1,2 +1,2 @@
 firebase_functions~=0.1.0
-git+https://github.com/VRSEN/agency-swarm.git
+agency-swarm==0.1.1
